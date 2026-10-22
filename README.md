@@ -8,9 +8,9 @@
 [![GitHub Issues](https://img.shields.io/github/issues/wangchuxiaoji-oss/doubao2api)](https://github.com/wangchuxiaoji-oss/doubao2api/issues)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/wangchuxiaoji-oss/doubao2api)](https://github.com/wangchuxiaoji-oss/doubao2api/commits/main)
 
-逆向豆包（Doubao）客户端 API，为 AI 智能体提供免费的多模态能力。通过 OpenAI 兼容接口，让任何纯文本模型也能识图、读文件、生成图片/音乐/视频。
+豆包（Doubao）客户端 API，为 AI 智能体提供免费的多模态能力。通过 OpenAI 兼容接口，让任何纯文本模型也能识图、读文件、生成图片/音乐/视频。
 
-起初只是想给自己的 Hermes Agent（基于 DeepSeek V4 Flash）补上识图能力，结果越写越多，索性做成了完整的逆向客户端和 API 服务。
+起初只是想给自己的 Hermes Agent（基于 DeepSeek V4 Flash）补上识图能力，结果越写越多，索性做成了完整的客户端和 API 服务。
 
 ## 目录
 
